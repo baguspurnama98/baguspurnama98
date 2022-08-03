@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋👋👋😜
+
+👾
+
+Hey, I’m Bagus Purnama.
+
+I'm a data scientist, full-stack developer, and researcher, currently living in Surabaya, East Java, Indonesia. Let’s grab a coffee.
+<br>
+<a url="#">More about me →</a>
+
+### 📫 How to reach me: baguspurnama.com
 
 <!--
 **baguspurnama98/baguspurnama98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +23,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👾
+
+Hey, I’m Brian.
+
+I’m a product designer, podcaster, and writer, currently living in San Francisco. Right now I’m building native mobile apps at GitHub. Let’s grab a coffee.
+
+More about me →
+My personal website
+@brian_lovin on Twitter →
 -->
