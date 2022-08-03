@@ -9,6 +9,7 @@ I'm a data scientist, full-stack developer, and researcher, currently living in 
 [🤖 My personal website →](https://baguspurnama.com)<br/>
 [👻 @baguspurnamap on Twitter →](https://twitter.com/BagusPurnamaP)
 
+![Bagus's github stats](https://github-readme-stats.vercel.app/api?username=baguspurnama98&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark)
 
 <!--
 **baguspurnama98/baguspurnama98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
