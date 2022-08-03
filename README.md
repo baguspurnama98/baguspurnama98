@@ -2,13 +2,13 @@
 
 👾
 
-Hey, I’m Bagus Purnama.
-
+Hey, I’m Bagus Purnama.<br/>
 I'm a data scientist, full-stack developer, and researcher, currently living in Surabaya, East Java, Indonesia. Let’s grab a coffee.
-<br>
-<a url="#">More about me →</a>
 
-### 📫 How to reach me: baguspurnama.com
+[👽 More about me →](https://baguspurnama.com/about)<br/>
+[🤖 My personal website →](https://baguspurnama.com)<br/>
+[👻 @baguspurnamap on Twitter →](https://twitter.com/BagusPurnamaP)
+
 
 <!--
 **baguspurnama98/baguspurnama98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
