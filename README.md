@@ -5,7 +5,7 @@
 Hey, I’m Bagus Purnama.<br/>
 I'm a data scientist, software developer, and researcher interested in deep learning and natural language processing ⚡. Currently, I'm living in Surabaya, East Java, Indonesia. Let's grab a coffee.
 
-[👽 More about me →](https://baguspurnama.com/about)<br/>
+[👽 More about me →](https://about.baguspurnama.com)<br/>
 [🤖 My personal website →](https://baguspurnama.com)<br/>
 [👻 @baguspurnamap on Twitter →](https://twitter.com/BagusPurnamaP)
 
