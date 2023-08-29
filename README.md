@@ -8,7 +8,8 @@ Hey, I’m [Bagus Purnama](https://baguspurnama.com)!<br/>
 [👽 More about me →](https://baguspurnama.com)<br/>
 [👻 @baguspurnamap on Twitter →](https://twitter.com/BagusPurnamaP)
 
-![Bagus's github stats](https://github-readme-stats.vercel.app/api?username=baguspurnama98&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark)
+![Bagus's github stats](https://github-readme-stats.vercel.app/api?username=baguspurnama98&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baguspurnama98&hide_progress=true&theme=dark)
 <!--
 **baguspurnama98/baguspurnama98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
