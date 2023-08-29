@@ -2,15 +2,14 @@
 
 👾
 
-Hey, I’m Bagus Purnama.<br/>
-I'm a data scientist, software developer, and researcher interested in deep learning and natural language processing ⚡. Currently, I'm living in Jakarta, Indonesia. Let's grab a coffee.
+Hey, I’m [Bagus Purnama](https://baguspurnama.com)!<br/>
+🔭 I’m currently working as a Software Engineer at ✨ PT. Bank Mandiri Tbk ✨. Besides that, I'm a data scientist and researcher interested in deep learning and natural language processing ⚡. Currently, I'm living in Jakarta, Indonesia. Let's grab a coffee.
 
-[👽 More about me →](https://about.baguspurnama.com)<br/>
-[🤖 My personal website →](https://baguspurnama.com)<br/>
+[👽 More about me →](https://baguspurnama.com)<br/>
 [👻 @baguspurnamap on Twitter →](https://twitter.com/BagusPurnamaP)
 
 ![Bagus's github stats](https://github-readme-stats.vercel.app/api?username=baguspurnama98&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baguspurnama98&hide_progress=true&theme=dark)
 <!--
 **baguspurnama98/baguspurnama98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
